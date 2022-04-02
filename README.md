@@ -1,4 +1,4 @@
-# mucinous-adenocarcinoma-colon
+# Mucinous adenocarcinoma of colon arising from tubulovillus adenoma
 
 
 
@@ -13,7 +13,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-# Müsinöz adenokarsinom, kolon
+# Tübülövillöz adenom zemininde gelişmiş Müsinöz adenokarsinom, kolon
 
 ```
 
@@ -22,7 +22,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-# Mucinous adenocarcinoma colon
+# Mucinous adenocarcinoma of colon arising from tubulovillus adenoma
 
 ```
 
@@ -31,7 +31,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**Müsinöz adenokarsinom, kolon**
+**Tübülövillöz adenom zemininde gelişmiş Müsinöz adenokarsinom, kolon**
 
 
 [https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html](https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html)
@@ -47,7 +47,7 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**Mucinous adenocarcinoma colon**
+**Mucinous adenocarcinoma of colon arising from tubulovillus adenoma**
 
 
 [https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html](https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html)
