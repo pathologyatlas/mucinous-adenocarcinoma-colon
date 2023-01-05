@@ -34,11 +34,11 @@ source("./R/language.R")
 **Tübülövillöz adenom zemininde gelişmiş Müsinöz adenokarsinom, kolon**
 
 
-[https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html](https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html)
+[https://images.patolojiatlasi.com/mucinous-adenocarcinoma-colon/HE.html](https://images.patolojiatlasi.com/mucinous-adenocarcinoma-colon/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/mucinous-adenocarcinoma-colon/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -50,11 +50,11 @@ Mikroskopik görüntüleri inceleyin:
 **Mucinous adenocarcinoma of colon arising from tubulovillus adenoma**
 
 
-[https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html](https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html)
+[https://images.patolojiatlasi.com/mucinous-adenocarcinoma-colon/HE.html](https://images.patolojiatlasi.com/mucinous-adenocarcinoma-colon/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/mucinous-adenocarcinoma-colon/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/mucinous-adenocarcinoma-colon/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
